@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations. Tough but fair grading."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor. Makes complex topics accessible and fun."
+      },
+      {
+        "professor": "Dr. Emily Rodriguez",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes disorganized. Office hours are helpful."
+      },
+      {
+        "professor": "Prof. David Williams",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject. Assignments can be challenging."
+      },
+      {
+        "professor": "Dr. Olivia Parker",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Excellent teacher. Lab sessions are well-structured and informative."
+      },
+      {
+        "professor": "Prof. Jonathan Lee",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Moves too fast through material. Needs to provide more examples."
+      },
+      {
+        "professor": "Dr. Rachel Foster",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Insightful discussions. Heavy reading load but worth it."
+      },
+      {
+        "professor": "Prof. Alexander Kim",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dry lectures but very knowledgeable. Exams are tough."
+      },
+      {
+        "professor": "Dr. Lisa Martinez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Thought-provoking classes. Encourages critical thinking."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Clear explanations of complex concepts. Homework can be challenging."
+      },
+      {
+        "professor": "Dr. Jennifer Wu",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Field trips are a great addition."
+      },
+      {
+        "professor": "Prof. Daniel Brown",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting topics but can be biased. Encourages debate."
+      },
+      {
+        "professor": "Dr. Amanda Clark",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging lecturer. Projects are relevant and interesting."
+      },
+      {
+        "professor": "Prof. Kevin Nelson",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Often goes off-topic. Grading criteria are unclear."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Brilliant researcher and teacher. Challenging but rewarding course."
+      },
+      {
+        "professor": "Prof. Thomas Green",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Practical approach. Guest speakers add valuable insights."
+      },
+      {
+        "professor": "Dr. Natalie Wong",
+        "subject": "Linguistics",
+        "stars": 3,
+        "review": "Interesting material but fast-paced. More practice exercises needed."
+      },
+      {
+        "professor": "Prof. Christopher Adams",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Exceptional teacher. Makes complex concepts accessible and fun."
+      },
+      {
+        "professor": "Dr. Elizabeth Scott",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Fascinating course content. Field work component is valuable."
+      },
+      {
+        "professor": "Prof. Andrew Johnson",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes unclear. Extra help sessions are useful."
+      }
+    ]
+  }
